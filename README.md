@@ -20,7 +20,7 @@ Pastikan sudah memiliki **pip** terbaru, lalu jalankan:
 Untuk membuka dashboard interaktif, jalankan perintah:
 - streamlit run dashboard/dashboard.py
 atau kunjungi url link berikut :
-https://b5zrmwy3gcsfozwt2gn3vc.streamlit.app/
+https://b5zrmwy3gcsfozwt2gn3vc.streamlit.app
 
 
 ---
